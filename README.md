@@ -35,9 +35,6 @@ Key features include:
    - Used a Confusion Matrix to assess prediction quality
 
 ## Results & Insights
-- *Education Effect:* Graduate applicants show a higher frequency of loan approvals compared to Non‑Graduates.  
-- *Correlation:* Applicant income is positively correlated with the requested loan amount.  
-- *Model Performance:* Logistic Regression achieved an accuracy of *78%*
 - **Education Effect:** Graduate applicants show a higher frequency of loan approvals compared to Non‑Graduates.  
 - **Correlation:** Applicant income is positively correlated with the requested loan amount.  
 - **Model Performance:** Logistic Regression achieved an accuracy of **78%**.
